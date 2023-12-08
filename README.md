@@ -3,4 +3,4 @@
 Example notebook, demonstrating some ways in which GeoTIFF and Shapefile data
 can be accessed with Python.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.binder.curvenote.dev/user/cemacrr-python-tif-testing-9aitqsbj/tree/python-tif-testing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemacrr/python-tif-testing/HEAD?labpath=python-tif-testing.ipynb)
