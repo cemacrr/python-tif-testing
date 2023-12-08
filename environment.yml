@@ -1,0 +1,10 @@
+name: python-tif-testing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - gdal
+  - matplotlib
+  - pyshp
+  - rioxarray
