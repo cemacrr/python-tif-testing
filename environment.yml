@@ -1,8 +1,8 @@
 name: python-tif-testing
 channels:
   - conda-forge
-  - defaults
 dependencies:
+  - python=3.13
   - cartopy
   - gdal
   - matplotlib
